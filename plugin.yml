@@ -1,0 +1,7 @@
+name: WorldRegeneration
+main: me.vaqxine.WorldRegeneration.WorldRegeneration
+version: 1.0
+commands:
+  worldregen:
+    description: Root command.
+    usage: /<command>
